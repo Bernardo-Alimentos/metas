@@ -1,0 +1,66 @@
+[
+	{
+		"nome" : "4.01 - ARROZ",
+		"id": 0
+	},
+	{
+		"nome" : "4.02 - FEIJAO",
+		"id": 1
+	},
+	{
+		"nome" : "4.03 - CHAS",
+		"id": 2
+	},
+	{
+		"nome" : "4.04 - CONDIMENTOS/ERVAS E TEMPEROS",
+		"id": 3
+	},
+	{
+		"nome" : "4.05 - BALAS CONFEITOS E GRANULADOS",
+		"id": 4
+	},
+	{
+		"nome" : "4.06 - GRAOS E SEMENTES E FARINACEOS",
+		"id": 5
+	},
+	{
+		"nome" : "4.08 - MILHO",
+		"id": 6
+	},
+	{
+		"nome" : "4.10 - MOLHOS E CONSERVAS",
+		"id": 7
+	},
+	{
+		"nome" : "4.11 - SAL",
+		"id": 8
+	},
+	{
+		"nome" : "4.13 - ACHOCOLATADOS",
+		"id": 9
+	},
+	{
+		"nome" : "4.14 - MISTURA PARA BOLOS",
+		"id": 10
+	},
+	{
+		"nome" : "4.15 - GELATINAS",
+		"id": 11
+	},
+	{
+		"nome" : "5.01 - EMBALAGENS E UTENSILIOS",
+		"id": 12
+	},
+	{
+		"nome" : "5.03 - EXPOSITOR",
+		"id": 13
+	},
+	{
+		"nome" : "5.13 - ACUCARES E DERIVADOS",
+		"id": 14
+	},
+	{
+		"nome" : "6.01 - SUB PRODUTO",
+		"id": 15
+	}
+]
